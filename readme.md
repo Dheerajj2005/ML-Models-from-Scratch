@@ -39,6 +39,17 @@ Whether you’re a **beginner learning the math behind ML** or an **intermediate
 
 ---
 
+##  Models & Topics Covered (short summary)
+
+- Regression: Simple Linear, Multiple, Polynomial, Lasso, Ridge, ElasticNet
+- Classification: Logistic Regression, Softmax, Linear SVM
+- Tree Models: Decision Tree (classifier and regressor), Random Forest
+- Clustering: KMeans, DBSCAN
+- Optimization: Gradient Descent variants (batch, stochastic, mini-batch)
+- Model Selection & Evaluation: Train/Test split, K-Fold CV, Confusion Matrix, Precision/Recall/F1, GridSearchCV
+
+---
+
 ##  Example Output
 
 Each notebook typically includes:
@@ -66,10 +77,3 @@ Each notebook typically includes:
 - Add **Neural Network from Scratch** (Perceptron, MLP)  
 - Integrate **Streamlit Dashboard** for interactive model demos  
 - Extend **real-world datasets** (Iris, Wine, Boston, MNIST, etc.) for better benchmarking  
-
----
-
-##  Author
-
-**Dheeraj Yadav**  
-📍 Aspiring AI Engineer | Data & AI Enthusiast  
